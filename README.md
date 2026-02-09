@@ -6,7 +6,7 @@ Welcome to the repository for the "Signals and Slots" course on Qt Academy.
 
 The files provided are the demo apps created during the course. They provide a reference for the workflows covered in the course section.
 
-## Intructions
+## Instructions
 
 SignalsAndSlots_Section2: Example to demonstrate how to connect a signal to a slot across two custom C++ classes in a console application
 
@@ -16,7 +16,7 @@ SignalsAndSlots_Section4: Example to demonstrate how to use the various connecti
 
 SignalsAndSlots_Section6: Example to demonstrate how to use signals and signal handlers in QML
 
-## Resouces
+## Resources
 
 If you need additional help, the following resources may be helpful:
 
